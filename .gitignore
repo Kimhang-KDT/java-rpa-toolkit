@@ -1,0 +1,39 @@
+# 컴파일된 클래스 파일
+*.class
+
+# 로그 파일
+*.log
+
+# BlueJ 파일
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# 패키지 파일 #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 가상 머신 충돌 로그
+hs_err_pid*
+
+# IDE 관련 파일
+.idea/
+.vscode/
+*.iml
+
+# Maven 관련
+target/
+
+# Gradle 관련
+.gradle/
+build/
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
